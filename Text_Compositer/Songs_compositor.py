@@ -3,6 +3,12 @@ import random
 from Grafo import Graph
 from Vertex import Vertex
 
+"""
+Este programa tomando una base de varias canciones (preferiblemente de un mismo artista), crea un grafo compuesto de vertex, 
+donde cada verte consiste de una palabra que aparezca en las canciones, y de una lista de conexiones de esa palabra. 
+A partir de allí, se pone al programa a componer una canción con la función random, usando este grafo como base.
+"""
+
 #Ruta donde se encuentran los ficheros con las lyrics
 ruta = "D:/Documentos/GradosuperiorDAM2021/Segundo-Curso/SGE/Python-workspace/Text_compositer/Lyrics"
 graph = Graph()
