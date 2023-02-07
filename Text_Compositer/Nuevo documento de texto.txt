@@ -1,0 +1,6 @@
+El fichero principal, y que hay que ejecutar es Songs_compositor.py
+
+Habría que ajustar las rutas de los ficheros para que funcione bien
+
+NuevaCancion.txt es una muestra del resultado
+
